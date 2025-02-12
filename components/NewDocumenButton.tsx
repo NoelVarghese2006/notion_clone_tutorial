@@ -2,7 +2,7 @@ import { Button } from "./ui/button"
 
 function NewDocumenButton() {
   return (
-    <Button>New Documen</Button>
+    <Button>New Document</Button>
   )
 }
 
